@@ -1,5 +1,2 @@
-var carArray = ['Honda', 'Toyota', 'BMW', 'Mercedes Benz'];
-console.log("Array of cars: ".concat(carArray));
-var carList = new List();
-carList.add('Honda');
+var carList = ['Honda', 'Toyota', 'BMW', 'Mercedes Benz'];
 console.log("List of cars: ".concat(carList));
